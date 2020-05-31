@@ -2,13 +2,13 @@
 The project involoves various methods for color detection.
 
 ### Includes: 
-                1)detect_color.py _ File to detect colors in images-run by using:"python3 detect_color.py --image        example_shapes.png"
+                1)detect_color.py: Script to detect colors in images using python3 :" detect_color.py"
                 
-                2)detect_in_vid.py _File to detect percentage of colors in live feed from your webcam.
+                2)detect_in_vid.py: Script to detect percentage of colors in live feed from your webcam.
                 
-                3)example_shapes.png _the image I used as the sample for my programs.
+                3)example_shapes.png: the image I used as the sample for my programs.
                 
-                4)mask.py . _File to filter out all colors except the one specified
+                4)mask.py: Script to filter out all colors except the one specified.
                 
                 5)module_s:
                   colorlabeler.py _used as a module
