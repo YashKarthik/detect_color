@@ -10,6 +10,6 @@ The project involoves various methods for color detection.
                 
                 4)mask.py: Script to filter out all colors except the one specified.
                 
-                5)module_s:
+                5)ccc:
                   colorlabeler.py _used as a module
                   shapedetector.pynk _used as a module
